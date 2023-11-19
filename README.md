@@ -1,6 +1,6 @@
 # (Computational) Text Analysis 1
 
-This repository includes learning materials for students attending the workshop "(Computational) Text Analysis 1" at the University of Sheffield. 
+This repository includes learning materials for students attending the workshop "(Computational) Text Analysis 1" at the University of Sheffield on November 22, 2023 (10am to 12pm). 
 
 The aim of this workshop is to provide a gentle introduction to computational text analysis using the R programming language. 
 

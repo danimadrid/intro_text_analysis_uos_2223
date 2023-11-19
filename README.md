@@ -18,3 +18,6 @@ The dataset was extracted using the Scopus API. It has 27 variables, most of whi
 
 ### Repository content
 
+In this repository you will find the slides that will be used during the workshop (2324_TextAnalysis1.pdf), a R script with the commands used during the demos (coming soon), and an annotated version of the script with detailed comments (coming soon).
+
+Note: The materials on this page may be updated prior to the workshop. You are advised to donwload the latest version at the beginning of the workshop.

@@ -10,7 +10,15 @@
 #install.packages("pacman") # This installs pacman locally
 library(pacman) # This loads pacman to this R session
 # This installs and loads a bunch of packages
-p_load(quanteda, tidyverse, magrittr, readtext)
+p_load(quanteda,
+       quanteda.textstats,
+       quanteda.textplots,
+       tidyverse, 
+       magrittr, 
+       readtext, 
+       stopwords,
+       newsmap,
+       maps)
 
 #### Demo 1: Introduction to quanteda ####
 
